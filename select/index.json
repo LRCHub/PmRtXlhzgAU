@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "未完成讃歌",
+  "base_artist": "しゃいと",
+  "createdAt": "2026-01-12T08:27:51.967989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未完成讃歌 (feat. 初音ミク)",
+      "artist": "しゃいと",
+      "has_synced": true,
+      "path": "select/01_未完成讃歌_(feat._初音ミク)_しゃいと.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未完成讃歌 (feat. 初音ミク)",
+      "artist": "しゃいと",
+      "has_synced": false,
+      "path": "select/pl_01_未完成讃歌_(feat._初音ミク)_しゃいと.txt"
+    }
+  ]
+}
